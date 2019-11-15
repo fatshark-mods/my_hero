@@ -1,0 +1,11 @@
+mod = [
+	"MyHero"
+]
+
+package = [
+	"resource_packages/MyHero/MyHero"
+]
+
+lua = [
+	"scripts/mods/MyHero/*"
+]
